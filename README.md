@@ -1,6 +1,6 @@
 # common-server
-##### Simple Http Server redirected with send_me parameter .
-##### if send_me parameter is true
+##### Simple Http Server.
+##### if `send_me` parameter is true it redirect you to google.com
 
 ``` php
 <?php
